@@ -1,0 +1,9 @@
+*.uasset binary
+*.umap binary
+
+*.ini text
+*.int text
+*.cpp text
+*.h text
+*.c text
+*.cs text
