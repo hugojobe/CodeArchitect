@@ -2,7 +2,7 @@
 
 ## 🎯 Project Overview
 **Code Architect** is a highly ambitious management/business simulation game developed using Unreal Engine 5. The core focus is the ultra-realistic management of a software development company, covering everything from video games and proprietary distribution platforms (e-shops) to third-party publishing.
-The entire gameplay experience is driven by a rich and complex **User Interface**, with no 3D world exploration required. The game aims for deep economic and systemic simulation, covering time, finance, HR, market dynamics, and the complete software product lifecycle.
+The game aims for deep economic and systemic simulation, covering time, finance, HR, market dynamics, and the complete software product lifecycle.
 
 * **Engine:** Unreal Engine 5 (Blueprint-centric development)
 * **Genre:** Management / Business Simulation / Strategy
